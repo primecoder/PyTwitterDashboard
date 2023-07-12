@@ -17,15 +17,15 @@ people = [
 ]
 '''
 people = [
-    "logical_101",
     "icuriosity",
+    "logical_101",
+    "numerologician",
+    "icuriosity2",
     "_APinchOfSalt",
     "mini_landscape",
-    "numerologician",
-    "Austin_Powers__",
-    "ITCrowdSupport",
     "Alpetcho7777",
-    "_catherineada"
+    "_catherineada",
+    "Austin_Powers__"
 ]
 contents = ""
 for person in people:
